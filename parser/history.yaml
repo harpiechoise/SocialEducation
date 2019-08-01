@@ -1,0 +1,16 @@
+---
+historia: "Imagina que tienes una pieza de papel cuadrada, y quiero saber cuantos cosas me caen dentro de ella, para ello debo calcular el espacio dentro del mi hoja de papel, para tengo que sacar una regla y saber cuanto mide la parte de abajo de mi papel, y multiplicar por cualquier otro lado de mi cuadrado, porque en un cuadrado todos los lados miden igual, ahora imagina que tu papel no tiene todos los lados iguales, es decir un rectangulo de papel, en ese caso debo medir su parte de abajo y medir su lado derecho o izquierdo, y multiplicar ambos, y tenemos todo el espacio de dentro de mi rectangulo, y si mi papel es de forma de un triangulo rectangulo, para saber el espacio que tengo dentro es dividir por dos mi rectangulo"
+entidades: 
+  - cuadrado 
+  - rectangulo 
+  - espacio dentro del mi hoja de papel 
+  - regla 
+  - saber cuanto mide la parte de abajo de mi papel 
+  - multiplicar 
+  - cualquier otro lado de mi cuadrado 
+  - cuadrado todos los lados miden igual 
+  - no tiene todos los lados iguales 
+  - medir su parte de abajo 
+  - lado derecho o izquierdo 
+  - triangulo rectangulo 
+  - dividir por dos mi rectangulo
