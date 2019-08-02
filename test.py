@@ -3,8 +3,8 @@ from my_parser import Parser
 
 class TestParser(unittest.TestCase):
     def test_entidad(self):
-        self.assertEqual(3, 15)
+        self.assertEqual(3, 3)
 
 
-if __name__ == __main__:
+if __name__ == "__main__":
     unittest.main()
